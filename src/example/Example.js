@@ -38,7 +38,7 @@ class App extends Component {
           options={optionsCursorTrue}
         />
 
-        <h3 style={{margin: '0 auto', marginTop: '100px', textAlign: 'center'}}> You can set curor follow options, so the pop up will follow the mouse cursor.</h3>
+        <h3 style={{margin: '0 auto', marginTop: '100px', textAlign: 'center'}}> You can set cursor follow options, so the pop up will follow the mouse cursor.</h3>
         <ReactHover
           styles={styles.cursor}
           componentHtml={componentHtml.advancedComponentHtml}
